@@ -17,7 +17,7 @@ These are defined in the `objects` package.
 ## Visualization
 
 The `visualize` package contains a `Show` class which displays a simulation
-using pyglet 2.1. If the planet is an `Earth` instance and an image file named
+using pyglet 1.5.31. If the planet is an `Earth` instance and an image file named
 `earth.jpg` is present in the working directory, the texture will be mapped onto
 the sphere. Otherwise a solid blue planet is shown. Platforms are rendered as
 red spheres. Use the mouse to orbit around the planet and zoom with the scroll
